@@ -1,4 +1,4 @@
-# TikTok Comment Liker
+# Upwork Login
 
 Sample code using selenium login Upwork and save a screenshoot
 
